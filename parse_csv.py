@@ -29,4 +29,6 @@ for idx, row in df.iterrows():
         print("\t- {} （{} {}）".format(row["氏名"], row["大学"], row["研究室"]))
         print("\t- {}  [(資料)]({})".format(row["タイトル"], row["資料"]))
     else:
+        print("")
         print("### 11:00-12:00 概要公演　後半 (概要講演:Zoom開催) [(ZoomURL)](https://hoge.com)")
+    print("")
