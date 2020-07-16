@@ -30,8 +30,8 @@ for idx, row in df.iterrows():
                 int(row["発表番号"]), row["開始時間"], row["終了時間"], row["資料"]
             )
         )
-        print("\t- {} （{} {}）".format(row["氏名"], row["大学"], row["研究室"]))
         print("\t- {}  ".format(row["タイトル"]))
+        print("\t- {} （{} {}）".format(row["氏名"], row["大学"], row["研究室"]))
     else:
         print("")
         print(
