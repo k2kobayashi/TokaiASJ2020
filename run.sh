@@ -6,9 +6,9 @@
 # Distributed under terms of the MIT license.
 #
 
-# download csv from google spreadsheets
-curl -L -o sheet1.csv \
-    'https://docs.google.com/spreadsheets/d/1epd7pzJdWIFO0hKivWZOpIbLSfUHGzdCAoiIueGRApc/export?format=csv'
+# # download csv from google spreadsheets
+# curl -L -o sheet1.csv \
+#     'https://docs.google.com/spreadsheets/d/1epd7pzJdWIFO0hKivWZOpIbLSfUHGzdCAoiIueGRApc/export?format=csv'
 
 # parse spreadsheets
 python parse_csv.py > middle.md
