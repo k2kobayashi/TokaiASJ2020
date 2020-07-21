@@ -26,8 +26,8 @@ print("### 10:00-10:53 概要公演　前半 (概要講演:Zoom開催) [[ZoomURL
 for idx, row in df.iterrows():
     if not np.isnan(row["発表番号"]):
         print(
-            "- **発表番号{}** {}-{} [(資料)]({})".format(
-                int(row["発表番号"]), row["開始時間"], row["終了時間"], row["資料"]
+            "- **発表番号{} ({})** {}-{} [(資料)]({})".format(
+                int(row["発表番号"]), row["発表場所"], row["開始時間"], row["終了時間"], row["資料"]
             )
         )
         print("\t- {}  ".format(row["タイトル"]))
