@@ -88,7 +88,7 @@
 	- 原口 佳樹 （静岡大学 立蔵研究室）
 
 - **発表番号23 (B-08)** 11:01-11:03 [(資料)](https://drive.google.com/drive/folders/14jzPtrIVs82xeBuSrIfsjdaD-TYF7lvn?usp=sharing)
-	- 半教師あり優決定音源分離の検討  
+	- (講演取消)  
 	- 森下 潤 （静岡大学 立蔵研究室）
 
 - **発表番号24 (B-09)** 11:03-11:05 [(資料)](https://drive.google.com/drive/folders/1uuF32ntNhw86RMGhlx0ijxWD6e32p76-?usp=sharing)

@@ -9,6 +9,27 @@
 - [(概要公演動画)](https://drive.google.com/drive/folders/1oSoNnt3hMhFUqmR0PEk6cfb1bporukqE)
 - [(発表資料)](https://drive.google.com/drive/folders/14pHIKj6GQ8s40-bB2qVVudgzoQ5nkHZo)
 
+## 選奨
+- 概要講演賞
+
+他の学生の模範となるようなわかりやすい概要講演をされたこと
+
+- ポスター賞
+
+他の学生の模範となるようなわかりやすい発表資料を作成されたこと
+
+- 質疑応答賞
+
+他の学生の模範となるような的確かつ明瞭な質疑応答をされたこと
+
+- オンラインプレゼンテーション賞
+
+オンライン発表であることを活かした新たなプレゼンスタイルに挑戦し，わかりやすい発表を行ったこと
+
+- 挑戦的研究賞
+
+挑戦的な研究の発表をされたのでこれからの研究の発展に期待し
+
 ## 発表プログラム
 ### 9:00-9:50 Zoom開場
 - [[ZoomURL]](https://us02web.zoom.us/meeting/register/tZ0qf-upqjIsHNZ8SAqkeLhLsshL3nr7OC4p)
@@ -104,7 +125,7 @@
 	- 原口 佳樹 （静岡大学 立蔵研究室）
 
 - **発表番号23 (B-08)** 11:01-11:03 [(資料)](https://drive.google.com/drive/folders/14jzPtrIVs82xeBuSrIfsjdaD-TYF7lvn?usp=sharing)
-	- 半教師あり優決定音源分離の検討  
+	- (講演取消)  
 	- 森下 潤 （静岡大学 立蔵研究室）
 
 - **発表番号24 (B-09)** 11:03-11:05 [(資料)](https://drive.google.com/drive/folders/1uuF32ntNhw86RMGhlx0ijxWD6e32p76-?usp=sharing)
