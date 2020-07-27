@@ -71,7 +71,7 @@
 
 - **発表番号15 (A-15)** 10:42-10:44 [(資料)](https://drive.google.com/drive/folders/1gWq_1vWd54zXOp5acCCfTP297ibwdLYO?usp=sharing)
 	- nan  
-	- 白土 大樹 （豊橋技術科学大学 秋葉研究室）
+	- 白土 大樹 (講演取消) （豊橋技術科学大学 秋葉研究室）
 
 - **発表番号16 (B-01)** 10:45-10:47 [(資料)](https://drive.google.com/drive/folders/1kaJUvJgE2oOnD_fwySy5YuQ3KvzLzjDT?usp=sharing)
 	- 人型ロボットとの会話における軽度認知障害患者の発話特徴分析  
@@ -203,5 +203,8 @@
 ### 15:15-15:30	休憩，ポスターセッション第三部向けRemo開場 [[RemoURL]](https://live.remo.co/e/3-c1fa2f)
 ### 15:30-16:15	ポスターセッション第三部（Cグループ(1F)，Aグループ(2F)）[[RemoURL]](https://live.remo.co/e/3-c1fa2f)
 ### 16:15-16:30	Web採点（Remo継続）
+- [[教員専用URL]] (https://docs.google.com/forms/d/1IpKfjpjiNMNAxcDZVIVHhuoOgjzoPnpX3fq5O8DKK9c/edit?usp=sharing)
+- [[学生専用URL]] (https://docs.google.com/forms/d/1-ZFsf42HY0zH4BdB8k5yG7cYnRNxHhES8XCFPMfrDDs/edit?usp=sharing)
+
 ### 16:30-17:00	休憩（Remo継続）
 ### 17:00-17:30	表彰・閉会挨拶・諸連絡（会場 Zoom）[[ZoomURL]](https://us02web.zoom.us/meeting/register/tZAvfuuvpzkvEtEMJp7a8sJcYG1RIJZaMrdf)
