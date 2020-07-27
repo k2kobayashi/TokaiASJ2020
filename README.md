@@ -70,8 +70,8 @@
 	- 齋藤 舜 （豊橋技術科学大学 秋葉研究室）
 
 - **発表番号15 (A-15)** 10:42-10:44 [(資料)](https://drive.google.com/drive/folders/1gWq_1vWd54zXOp5acCCfTP297ibwdLYO?usp=sharing)
-	- nan  
-	- 白土 大樹 (講演取消) （豊橋技術科学大学 秋葉研究室）
+	- (講演取消)  
+	- 白土 大樹 （豊橋技術科学大学 秋葉研究室）
 
 - **発表番号16 (B-01)** 10:45-10:47 [(資料)](https://drive.google.com/drive/folders/1kaJUvJgE2oOnD_fwySy5YuQ3KvzLzjDT?usp=sharing)
 	- 人型ロボットとの会話における軽度認知障害患者の発話特徴分析  
