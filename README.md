@@ -1,7 +1,7 @@
 # 第24回 東海地区音声関係研究室合同修士論文中間発表会プログラム
 
 - 作成日: 2020/07/06
-- 最終更新日: 2020/07/20
+- 最終更新日: 2020/07/27
 - 作成者: 小林 和弘（名古屋大学　戸田研究室）
 - 問い合わせ先: kobayashi.kazuhiro@g.sp.m.is.nagoya-u.ac.jp
 
@@ -10,7 +10,9 @@
 - [(発表資料)](https://drive.google.com/drive/folders/14pHIKj6GQ8s40-bB2qVVudgzoQ5nkHZo)
 
 ## 発表プログラム
-### 9:00-9:50 Zoom開場 [[ZoomURL]](https://us02web.zoom.us/meeting/register/tZ0qf-upqjIsHNZ8SAqkeLhLsshL3nr7OC4p)
+### 9:00-9:50 Zoom開場
+- [[ZoomURL]](https://us02web.zoom.us/meeting/register/tZ0qf-upqjIsHNZ8SAqkeLhLsshL3nr7OC4p)
+
 ### 9:50-10:00 挨拶・諸連絡（概要講演：Zoom開催）発表45件，参加者189人
 ### 10:00-10:53 概要公演　前半 (概要講演:Zoom開催) [[ZoomURL]](https://nagoya-u.ac.jp)
 - **発表番号1 (A-01)** 10:10-10:12 [(資料)](https://drive.google.com/drive/folders/12MJ84KmJzF1OrnMAcL4TRNBnrUd_w3QL?usp=sharing)
@@ -196,15 +198,28 @@
 	- 手順書における画像とテキストのcross-modal embeddingの検討  
 	- 山下 遼真 （岐阜大学 速水・田村研究室）
 
-### 12:00-13:30	昼食休憩 （教員会食），ポスターセッション第一部向け [[RemoURL]](https://live.remo.co/e/1-a1fb2f)
-### 13:30-14:15	ポスターセッション第一部（Aグループ(1F)，Bグループ(2F)）[[RemoURL]](https://live.remo.co/e/1-a1fb2f)
-### 14:15-14:30	休憩，ポスターセッション第二部向けRemo開場 [[RemoURL]](https://live.remo.co/e/OqMerbL1C)
-### 14:30-15:15	ポスターセッション第二部（Cグループ(1F)，Bグループ(2F)）[[RemoURL]](https://live.remo.co/e/OqMerbL1C)
-### 15:15-15:30	休憩，ポスターセッション第三部向けRemo開場 [[RemoURL]](https://live.remo.co/e/3-c1fa2f)
-### 15:30-16:15	ポスターセッション第三部（Cグループ(1F)，Aグループ(2F)）[[RemoURL]](https://live.remo.co/e/3-c1fa2f)
+### 12:00-13:30	昼食休憩 （教員会食），ポスターセッション第一部向け 
+- [[RemoURL]](https://live.remo.co/e/1-a1fb2f)
+
+### 13:30-14:15	ポスターセッション第一部（Aグループ(1F)，Bグループ(2F)）
+- [[RemoURL]](https://live.remo.co/e/1-a1fb2f)
+
+### 14:15-14:30	休憩，ポスターセッション第二部向けRemo開場
+- [[RemoURL]](https://live.remo.co/e/OqMerbL1C)
+
+### 14:30-15:15	ポスターセッション第二部（Cグループ(1F)，Bグループ(2F)）
+- [[RemoURL]](https://live.remo.co/e/OqMerbL1C)
+
+### 15:15-15:30	休憩，ポスターセッション第三部向けRemo開場
+- [[RemoURL]](https://live.remo.co/e/3-c1fa2f)
+
+### 15:30-16:15	ポスターセッション第三部（Cグループ(1F)，Aグループ(2F)）
+- [[RemoURL]](https://live.remo.co/e/3-c1fa2f)
+
 ### 16:15-16:30	Web採点（Remo継続）
-- [[教員専用URL]] (https://docs.google.com/forms/d/1IpKfjpjiNMNAxcDZVIVHhuoOgjzoPnpX3fq5O8DKK9c/edit?usp=sharing)
-- [[学生専用URL]] (https://docs.google.com/forms/d/1-ZFsf42HY0zH4BdB8k5yG7cYnRNxHhES8XCFPMfrDDs/edit?usp=sharing)
+- [[教員専用採点URL]](https://docs.google.com/forms/d/1IpKfjpjiNMNAxcDZVIVHhuoOgjzoPnpX3fq5O8DKK9c/edit?usp=sharing)
+- [[学生専用採点URL]](https://docs.google.com/forms/d/1-ZFsf42HY0zH4BdB8k5yG7cYnRNxHhES8XCFPMfrDDs/edit?usp=sharing)
 
 ### 16:30-17:00	休憩（Remo継続）
-### 17:00-17:30	表彰・閉会挨拶・諸連絡（会場 Zoom）[[ZoomURL]](https://us02web.zoom.us/meeting/register/tZAvfuuvpzkvEtEMJp7a8sJcYG1RIJZaMrdf)
+### 17:00-17:30	表彰・閉会挨拶・諸連絡（会場 Zoom）
+- [[ZoomURL]](https://us02web.zoom.us/meeting/register/tZAvfuuvpzkvEtEMJp7a8sJcYG1RIJZaMrdf)
