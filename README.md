@@ -8,7 +8,7 @@
 ## FAQ
 
 - Remoに関する参加者Q&A
-[(URL)](https://docs.google.com/document/d/15HoEVECXFMxj6vDtQyy8QvCXbhUCrcR1PbXSrQxzqpk/edit?usp=sharing)
+    - [(URL)](https://docs.google.com/document/d/15HoEVECXFMxj6vDtQyy8QvCXbhUCrcR1PbXSrQxzqpk/edit?usp=sharing)
 
 - REMO, Zoomの利用に関して
     - 発表・聴講に不具合が発生した場合は，下記メールアドレスまでお問い合わせください
@@ -20,6 +20,9 @@
 - [(発表資料)](https://drive.google.com/drive/folders/14pHIKj6GQ8s40-bB2qVVudgzoQ5nkHZo)
 
 ## 選奨
+- [[教員専用投票URL]](https://forms.gle/YxrbKfNLjQEUypRF6)
+- [[学生専用投票URL]](https://forms.gle/K93dagFY7hhfgLn78)
+
 - 概要講演賞
     - 他の学生の模範となるようなわかりやすい概要講演を行っていた発表
 
@@ -244,8 +247,8 @@
 - [[RemoURL]](https://live.remo.co/e/3-c1fa2f)
 
 ### 16:15-16:30	Web投票（Remo継続）
-- [[教員専用採点URL]](https://forms.gle/YxrbKfNLjQEUypRF6)
-- [[学生専用採点URL]](https://forms.gle/K93dagFY7hhfgLn78)
+- [[教員専用投票URL]](https://forms.gle/YxrbKfNLjQEUypRF6)
+- [[学生専用投票URL]](https://forms.gle/K93dagFY7hhfgLn78)
 
 ### 16:30-17:00	休憩（Remo継続）
 ### 17:00-17:30	表彰・閉会挨拶・諸連絡（会場 Zoom）
