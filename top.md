@@ -7,8 +7,8 @@
 
 ## FAQ
 
-- Remoに関する参加者Q&A
-    - [(URL)](https://docs.google.com/document/d/15HoEVECXFMxj6vDtQyy8QvCXbhUCrcR1PbXSrQxzqpk/edit?usp=sharing)
+- Remoに関する参加者Q&Aページ
+    - [[URL]](https://docs.google.com/document/d/15HoEVECXFMxj6vDtQyy8QvCXbhUCrcR1PbXSrQxzqpk/edit?usp=sharing)
 
 - REMO, Zoomの利用に関して
     - 発表・聴講に不具合が発生した場合は，下記メールアドレスまでお問い合わせください
