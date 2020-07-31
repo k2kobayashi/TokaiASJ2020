@@ -1,9 +1,18 @@
 # 第24回 東海地区音声関係研究室合同修士論文中間発表会プログラム
 
 - 作成日: 2020/07/06
-- 最終更新日: 2020/07/27
+- 最終更新日: 2020/07/31
+- 問い合わせ先: tokai-mid-2020-nu@g.sp.m.is.nagoya-u.ac.jp
 - 作成者: 小林 和弘（名古屋大学　戸田研究室）
-- 問い合わせ先: kobayashi.kazuhiro@g.sp.m.is.nagoya-u.ac.jp
+
+## FAQ
+
+- Remoに関する参加者Q&A
+[(URL)](https://docs.google.com/document/d/15HoEVECXFMxj6vDtQyy8QvCXbhUCrcR1PbXSrQxzqpk/edit?usp=sharing)
+
+- REMO, Zoomの利用に関して
+    - 不具合発生時は，下記メールアドレスまでお問い合わせください
+    - tokai-mid-2020-nu@g.sp.m.is.nagoya-u.ac.jp
 
 ## 資料のダウンロード
 - [(概要公演動画)](https://drive.google.com/drive/folders/1oSoNnt3hMhFUqmR0PEk6cfb1bporukqE)
@@ -30,3 +39,4 @@
 - [[ZoomURL]](https://us02web.zoom.us/meeting/register/tZ0qf-upqjIsHNZ8SAqkeLhLsshL3nr7OC4p)
 
 ### 9:50-10:00 挨拶・諸連絡（概要講演：Zoom開催）発表45件，参加者189人
+
