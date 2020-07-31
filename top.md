@@ -13,7 +13,7 @@
 - REMO, Zoomの利用に関して
     - 発表・聴講に不具合が発生した場合は，下記メールアドレスまでお問い合わせください
     - tokai-mid-2020-nu@g.sp.m.is.nagoya-u.ac.jp
-    - REMOに接続可能な場合は，REMOの運営シートにて直接お訊ねください．
+    - REMOに接続可能な場合は，REMOの運営シートにて直接お訊ねください
 
 ## 資料のダウンロード
 - [(概要公演動画)](https://drive.google.com/drive/folders/1oSoNnt3hMhFUqmR0PEk6cfb1bporukqE)
