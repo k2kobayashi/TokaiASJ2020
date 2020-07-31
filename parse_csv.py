@@ -22,12 +22,12 @@ if not csvf.exists():
 df = pd.read_csv(csvf)
 
 
-print("### 10:00-10:53 概要公演　前半 (概要講演:Zoom開催) [[ZoomURL]](https://nagoya-u.ac.jp)")
+print("### 10:10-11:01 概要講演　前半 (概要講演:Zoom開催) [[ZoomURL]](https://nagoya-u.ac.jp)")
 for idx, row in df.iterrows():
     if not np.isnan(row["発表番号"]):
         print(
-            "- **発表番号{} ({})** {}-{} [(資料)]({})".format(
-                int(row["発表番号"]), row["発表場所"], row["開始時間"], row["終了時間"], row["資料"]
+            "- **発表番号{} ({})** [(資料)]({})".format(
+                int(row["発表番号"]), row["発表場所"], row["資料"]
             )
         )
         print("\t- {}  ".format(row["タイトル"]))
@@ -35,6 +35,6 @@ for idx, row in df.iterrows():
     else:
         print("")
         print(
-            "### 11:00-12:00 概要公演　後半 (概要講演:Zoom開催) [(ZoomURL)](https://nagoya-u.ac.jp)"
+            "### 11:15-12:00 概要公演　後半 (概要講演:Zoom開催) [(ZoomURL)](https://nagoya-u.ac.jp)"
         )
     print("")
