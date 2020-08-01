@@ -42,9 +42,9 @@
 ### 9:00-9:50 Zoom開場
 - [[ZoomURL]](https://us02web.zoom.us/meeting/register/tZ0qf-upqjIsHNZ8SAqkeLhLsshL3nr7OC4p)
 
-### 10:00-10:10 挨拶・諸連絡（概要講演：Zoom開催）発表45件，参加者189人
+### 10:00-10:10 挨拶・諸連絡（概要講演：Zoom開催）発表43件，参加者190人
 
-### 10:10-11:01 概要講演　前半 (概要講演:Zoom開催) [[ZoomURL]](https://nagoya-u.ac.jp)
+### 10:10-11:01 概要講演　前半 (概要講演:Zoom開催)
 - **発表番号1 (A-01)** [(資料)](https://drive.google.com/drive/folders/12MJ84KmJzF1OrnMAcL4TRNBnrUd_w3QL?usp=sharing)
 	- CycleVAEとWaveNetボコーダを用いたクロスリンガル声質変換  
 	- 中谷 輝 （名古屋大学 武田研究室）
@@ -134,7 +134,7 @@
 	- 山之上 大輝 （静岡大学 立蔵研究室）
 
 
-### 11:15-12:00 概要公演　後半 (概要講演:Zoom開催) [(ZoomURL)](https://nagoya-u.ac.jp)
+### 11:15-12:00 概要講演　後半 (概要講演:Zoom開催)
 
 - **発表番号25 (B-10)** [(資料)](https://drive.google.com/drive/folders/1FGL7NDq5HTEQu4XTgq6GPEf2lWMVzxw_?usp=sharing)
 	- 人手調整が容易なパラメータを用いたペルソナチャットボットの提案  

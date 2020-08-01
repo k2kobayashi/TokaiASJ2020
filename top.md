@@ -42,5 +42,5 @@
 ### 9:00-9:50 Zoom開場
 - [[ZoomURL]](https://us02web.zoom.us/meeting/register/tZ0qf-upqjIsHNZ8SAqkeLhLsshL3nr7OC4p)
 
-### 10:00-10:10 挨拶・諸連絡（概要講演：Zoom開催）発表45件，参加者189人
+### 10:00-10:10 挨拶・諸連絡（概要講演：Zoom開催）発表43件，参加者190人
 
