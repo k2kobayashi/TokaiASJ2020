@@ -16,7 +16,7 @@
     - REMOに接続可能な場合は，REMOの運営シートにて直接お訊ねください
 
 ## 資料のダウンロード
-- [(概要公演動画)](https://drive.google.com/drive/folders/1oSoNnt3hMhFUqmR0PEk6cfb1bporukqE)
+- [(概要講演動画)](https://drive.google.com/drive/folders/1oSoNnt3hMhFUqmR0PEk6cfb1bporukqE)
 - [(発表資料)](https://drive.google.com/drive/folders/14pHIKj6GQ8s40-bB2qVVudgzoQ5nkHZo)
 
 ## 選奨
