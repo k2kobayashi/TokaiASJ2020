@@ -22,6 +22,7 @@
 - ```README.md```を生成する
     - ```parse_csv.py```により```sheet1.csv```から```middle.md```を生成する
     - ```top.md```, ```middle.md```, ```bottom.md```を```cat```して```README.md```を生成する
+    - ```run.sh```を実行すれば上記の処理が行われる
     - repositoryに```README.md```をpushしてHPを更新する
 
 - HPの公開方法
